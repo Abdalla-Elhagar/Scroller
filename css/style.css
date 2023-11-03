@@ -1,0 +1,10 @@
+body {
+    height: 5000px;
+    background-color: rgb(57, 57, 57) !important;
+}
+.scroller {
+    width: 0px;
+    height: 5px;
+    z-index: 9999;
+    background-color: rgb(195, 195, 195);
+}
